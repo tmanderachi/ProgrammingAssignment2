@@ -1,3 +1,8 @@
+## The core of code used for these functions came from 
+## 'The Caching of the Mean of a Vector' example on Coursera
+## https://class.coursera.org/rprog-011/human_grading/view/courses/973492/assessments/3/submissions
+
+
 ## This pair of functions will allow the inverse of a matrix to be
 ## calculated and cached for later retrieval
 
